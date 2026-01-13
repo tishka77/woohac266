@@ -42,33 +42,8 @@
   "Servers": {
     "Official": [
       {
-        "Address": "80.242.59.205",
-        "Port": 35001,
-        "Tags": ""
-      },
-	  {
-        "Address": "80.242.59.205",
-        "Port": 35002,
-        "Tags": ""
-      },
-      {
-        "Address": "80.242.59.205",
-        "Port": 35003,
-        "Tags": ""
-      },
-	  {
-        "Address": "80.242.59.205",
-        "Port": 35004,
-        "Tags": ""
-      },
-	  {
-        "Address": "80.242.59.205",
-        "Port": 35005,
-        "Tags": ""
-      },
-	  {
-        "Address": "80.242.59.205",
-        "Port": 35006,
+        "Address": "194.93.2.199",
+        "Port": 28015,
         "Tags": ""
       },
     ],
@@ -86,9 +61,9 @@
     ],
     "TrophyPages": [
       {
-        "EventTitle": "Негры",
+        "EventTitle": "TwitchRivals",
         "Logo": "https://files.facepunch.com/Alistair/07/29/6e9331/SwYyDvCo.png",
-        "WinningTeam": "Негры1",
+        "WinningTeam": "TwitchRivals1",
         "TeamMembers": [
           "Blooprint",
           "hJune",
@@ -137,3 +112,4 @@
     "server_analytics": true
   }
 }
+
