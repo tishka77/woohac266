@@ -8,7 +8,7 @@
     {
       "objectName": "TestButton2",
       "displayName": "Friend add",
-      "command": "fadd %STEAMID%"
+      "command": "friend add %STEAMID%"
     },
     {
       "objectName": "TestButton3",
