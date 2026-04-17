@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "versionCheckUrl": "https://raw.githubusercontent.com/tishka77/woohac266/refs/heads/main/versionRCAC.txt",
+  "versionTargetPath": "RustClient.exe",
+  "remove": [
+    "BepInEx/plugins/WoohACLoader.dll"
+  ],
+  "updates": [
+    {
+      "path": "RustClient.exe",
+      "url": "https://raw.githubusercontent.com/tishka77/woohac266/refs/heads/main/RustClient.exe",
+      "validatePe": true,
+      "minSizeBytes": 1024,
+      "skipIfExists": false,
+      "closeGameProcess": true
+    },
+    {
+      "path": "BepInEx/plugins/WoohBooster.dll",
+      "url": "https://raw.githubusercontent.com/tishka77/woohac266/refs/heads/main/plugins/WoohBooster.dll",
+      "validatePe": true,
+      "minSizeBytes": 256,
+      "skipIfExists": true,
+      "closeGameProcess": true
+    },
+    {
+      "path": "BepInEx/plugins/Newtonsoft.Json2.dll",
+      "url": "https://raw.githubusercontent.com/tishka77/woohac266/refs/heads/main/plugins/Newtonsoft.Json2.dll",
+      "validatePe": true,
+      "minSizeBytes": 256,
+      "skipIfExists": true,
+      "closeGameProcess": true
+    },
+    {
+      "path": "BepInEx/plugins/Newtonsoft.Json.dll",
+      "url": "https://raw.githubusercontent.com/tishka77/woohac266/refs/heads/main/plugins/Newtonsoft.Json.dll",
+      "validatePe": true,
+      "minSizeBytes": 256,
+      "skipIfExists": true,
+      "closeGameProcess": true
+    }
+  ]
+}
