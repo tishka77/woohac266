@@ -83,8 +83,7 @@
   },
   "Metadata": {
     "LoadingScreens": [
-      "https://files.facepunch.com/Errn/1b0611b1/2024-11_November-Update_LoadingScreen.jpg",
-      "https://files.facepunch.com/paddy/20240517/recyclers_radtown.jpg"
+      "http://5.42.211.95:8081/loading.png"
     ],
     "BlockedServers": [
       "38.101.112.37:*",
